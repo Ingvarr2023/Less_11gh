@@ -24,5 +24,22 @@ if(firstNumber == secondNumber * secondNumber) // true
 else // число a не явл. кв. числа b
 {
     Console.WriteLine("Нет, " + firstNumber + " Не является кв. от числа " + secondNumber);
-
 }
+
+// Напишите программу, которая на вход принимает
+// целое число N, а на выходе показывает все целые
+// числа в промежутке от -N до N.
+// Примеры
+// 4 => -4, -3, -2, -1, 0, 1, 2, 3, 4
+// 2 => -2, -1, 0, 1, 2
+
+Console.Write("Введите число  N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+int negativeN = N * -1; // -4
+
+while (negativeN <= N)
+{
+    Console.Write(negativeN + " "); //будет печатать в одной строке с пробелом
+    negativeN++;
+}
+
