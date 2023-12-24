@@ -11,8 +11,18 @@
 int number = 9; // number = 9
 int result = number * number; // 81
 // Console.ReadLine() - получить информацию из строчки;
-Console.Write("Введите число: ");
-int input = Convert.ToInt32(Console.ReadLine());
-// "123" + "123" (канкатинация) = "123123"
-// 123 + 123 = 246
-Console.WriteLine(input + 1000);
+Console.Write("Введите первое число: "); // a
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите первое число: "); // b
+int secondNumber = Convert.ToInt32(Console.ReadLine());
+// firstNumber == secondNumber * stcondNumber
+if(firstNumber == secondNumber * secondNumber) // true
+{
+    Console.WriteLine("Да, " + firstNumber + " является кв. от числа " + secondNumber);
+}
+else // число a не явл. кв. числа b
+{
+    Console.WriteLine("Нет, " + firstNumber + " Не является кв. от числа " + secondNumber);
+
+}
