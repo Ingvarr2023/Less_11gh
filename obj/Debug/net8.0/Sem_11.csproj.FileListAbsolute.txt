@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Sem_11\bin\Debug\net8.0\Sem_11.exe
+C:\Users\user\Desktop\Sem_11\bin\Debug\net8.0\Sem_11.deps.json
+C:\Users\user\Desktop\Sem_11\bin\Debug\net8.0\Sem_11.runtimeconfig.json
+C:\Users\user\Desktop\Sem_11\bin\Debug\net8.0\Sem_11.dll
+C:\Users\user\Desktop\Sem_11\bin\Debug\net8.0\Sem_11.pdb
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.AssemblyInfo.cs
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.dll
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\refint\Sem_11.dll
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.pdb
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.genruntimeconfig.cache
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\ref\Sem_11.dll
