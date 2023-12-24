@@ -8,10 +8,11 @@
 // a = 9, b = -3 => да
 // a = -3, b = 9 =>
 
-int number  = 9;
-int result = namber * number; // 81
-
-Console.ReadLine () - пполучить информацию из строчки
-Console.Write ("Введите число: ");
-string input = Console.ReadLine ();
+int number = 9; // number = 9
+int result = number * number; // 81
+// Console.ReadLine() - получить информацию из строчки;
+Console.Write("Введите число: ");
+int input = Convert.ToInt32(Console.ReadLine());
+// "123" + "123" (канкатинация) = "123123"
+// 123 + 123 = 246
 Console.WriteLine(input + 1000);
