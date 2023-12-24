@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\refint\Sem_11.dll
 C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.pdb
 C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.genruntimeconfig.cache
 C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\ref\Sem_11.dll
+C:\Users\user\Desktop\Sem_11\obj\Debug\net8.0\Sem_11.sourcelink.json

@@ -10,3 +10,8 @@
 
 int number  = 9;
 int result = namber * number; // 81
+
+Console.ReadLine () - пполучить информацию из строчки
+Console.Write ("Введите число: ");
+string input = Console.ReadLine ();
+Console.WriteLine(input + 1000);
