@@ -35,7 +35,13 @@ else // число a не явл. кв. числа b
 
 Console.Write("Введите число  N: ");
 int N = Convert.ToInt32(Console.ReadLine());
+if (N < 0)
+{
+    Console.WriteLine("Введено N < 0");
+    N = N * -1;
+}
 int negativeN = N * -1; // -4
+
 
 while (negativeN <= N)
 {
